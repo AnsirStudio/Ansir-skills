@@ -9,7 +9,7 @@
 | Skill | 简介 | 仓库 |
 | --- | --- | --- |
 | chinglish | 把中文翻译成搞笑好玩的 Chinglish 英文，保留中文语序和逐字翻译的离谱感。 | https://github.com/AnsirStudio/chinglish |
-| second-me-wiki-distiller | 构建和维护由 LLM 维护的个人 Markdown 知识库与 second me 种子。 | https://github.com/AnsirStudio/second-me-wiki-distiller |
+| llm-wiki-distiller | 构建和维护由 LLM 维护的个人 Markdown 知识库：素材蒸馏、审查、检索全生命周期（原名 second-me-wiki-distiller，2026-07-02 改名）。 | https://github.com/AnsirStudio/llm-wiki-distiller |
 
 ## 收录规则
 
